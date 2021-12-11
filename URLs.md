@@ -8,4 +8,6 @@
 ###set the vscode and markdown  files.trimTrailingWhitespace  
 [vscode中Markdown换行设置](https://blog.csdn.net/guobinlin/article/details/111371578?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-1.highlightwordscore&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-1.highlightwordscore)  
 [EditorConfig使用介绍——解决markdown文件行尾空格自动删除的问题](https://segmentfault.com/a/1190000007599845)  
+###2021-12-11, Learned from this video, and try it. Thanks.  
+[Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 ###End
