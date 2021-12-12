@@ -1,6 +1,7 @@
 [GitHub Profile Readme Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/)  
 [在VScode上配置Git](https://zhuanlan.zhihu.com/p/31417255)  
 [Change your remote's URL from HTTPS to SSH with the git remote set-url command.](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-ssh-to-https)  
+✅✅✅[How to create an Impressive GitHub Profile README | Optimize your GitHub](https://www.youtube.com/watch?v=7K8JctEM-Uk)  
 ###how to sync.  
 ###set the git.path in VSCode config files.  
 [Visual Studio Code 使用Git进行版本控制](https://zhuanlan.zhihu.com/p/23344403)  
